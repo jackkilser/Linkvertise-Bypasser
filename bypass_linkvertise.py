@@ -17,9 +17,5 @@ try:
         destinations = [i.json().get('destination') for i in linkvertise_bypasser(arguments)]
         for x,i in enumerate(destinations):
             print(f"\n{x+1} - {i}")
-
-   
-   
-        sys.exit(1)
 except:
     print('No arguments were received.')
