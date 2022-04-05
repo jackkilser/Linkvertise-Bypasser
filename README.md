@@ -7,5 +7,5 @@ You can bypass as many links as needed, as long as they are separated by spaces.
 # Usage
 
 ```
-python bypass_linkvertise.py <linkvertise link here>
+python bypass_linkvertise.py <linkvertise link>
 ```
