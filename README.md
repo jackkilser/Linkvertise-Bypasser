@@ -8,4 +8,4 @@ You can bypass as many links as needed, as long as they are separated by spaces.
 
 ```
 python bypass_linkvertise.py <linkvertise link here>
-
+```
